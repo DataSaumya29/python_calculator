@@ -1,3 +1,6 @@
+# Simple Calculator using Python
+# Author: Your Name
+# Features: Add, Subtract, Multiply, Divide, Power
 def add(a,b):
     return a+b
 
